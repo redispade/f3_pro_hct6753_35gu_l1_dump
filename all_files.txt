@@ -4,6 +4,7 @@ bootdts/01.dtsdump_MT6753.dts
 boot.img
 bootimg/00_kernel
 bootimg/01_dtbdump_MT6753.dtb
+.gitignore
 system/app/AdupsFota/AdupsFota.apk
 system/app/AdupsFota/arm/AdupsFota.odex
 system/app/AdupsFotaReboot/AdupsFotaReboot.apk
