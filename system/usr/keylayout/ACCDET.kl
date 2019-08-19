@@ -1,0 +1,19 @@
+
+key 122   ENDCALL           
+key 163   MEDIA_NEXT
+key 164   HEADSETHOOK
+key 165   MEDIA_PREVIOUS
+key 114   VOLUME_DOWN
+key 115   VOLUME_UP
+key 582   VOICE_ASSIST
+
+
+key 195   HEADSET_KEY_1
+key 196   HEADSET_KEY_2
+key 197   HEADSET_KEY_3
+key 198   HEADSET_KEY_4
+
+key 79    NUMPAD_1
+key 80    NUMPAD_2
+key 81    NUMPAD_3
+key 82    NUMPAD_0
